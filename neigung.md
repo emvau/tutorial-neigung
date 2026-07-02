@@ -15,8 +15,8 @@ einen ``||basic:zeige Text||`` Block ein.
 Schreibe den Buchstaben R (für Rollen) hinein.
 ## 
 Füge danach einen ``||basic:zeige Zahl||`` Block ein.
-Klicke auf den runden Wert und wähle
-``||input:Rotation||`` → rollen.
+Füge in den runden Wert
+``||input:Rotation||`` ein und stelle → rollen ein.
 ## 
 Jetzt kommt Knopf B.
 Hole dir einen ``||input:wenn Knopf A geklickt||`` Block
@@ -27,8 +27,8 @@ einen ``||basic:zeige Text||`` Block ein.
 Schreibe den Buchstaben N (für Nicken) hinein.
 ## 
 Füge danach einen ``||basic:zeige Zahl||`` Block ein.
-Klicke auf den runden Wert und wähle
-``||input:Rotation||`` → Winkel.
+Füge in den runden Wert
+``||input:Rotation||`` ein und stelle → Winkel ein.
 ## @fullscreen
 Fertig! 🎉
 Lade das Programm auf deinen micro:bit herunter und probiere es aus:
