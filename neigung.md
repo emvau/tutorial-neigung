@@ -11,27 +11,27 @@ Hole dir einen ``||input:wenn Knopf A geklickt||`` Block
 und lege ihn auf die Arbeitsfläche.
 ## 
 Füge in den ``||input:wenn Knopf A geklickt||`` Block
-einen ``||basic:zeige Zeichenkette||`` Block ein.
-Schreibe den Buchstaben R (für Roll) hinein.
+einen ``||basic:zeige Text||`` Block ein.
+Schreibe den Buchstaben R (für Rollen) hinein.
 ## 
 Füge danach einen ``||basic:zeige Zahl||`` Block ein.
 Klicke auf den runden Wert und wähle
-``||input:Drehung||`` → Roll.
+``||input:Rotation||`` → rollen.
 ## 
 Jetzt kommt Knopf B.
 Hole dir einen ``||input:wenn Knopf A geklickt||`` Block
 und ändere A in B.
 ## 
 Füge in den ``||input:wenn Knopf B geklickt||`` Block
-einen ``||basic:zeige Zeichenkette||`` Block ein.
-Schreibe den Buchstaben W (für Winkel/Pitch) hinein.
+einen ``||basic:zeige Text||`` Block ein.
+Schreibe den Buchstaben N (für Nicken) hinein.
 ## 
 Füge danach einen ``||basic:zeige Zahl||`` Block ein.
 Klicke auf den runden Wert und wähle
-``||input:Drehung||`` → Pitch.
+``||input:Rotation||`` → Winkel.
 ## @fullscreen
 Fertig! 🎉
 Lade das Programm auf deinen micro:bit herunter und probiere es aus:
-- Drücke A und neige den micro:bit nach links oder rechts
-- Drücke B und neige den micro:bit vor oder zurück
+- Neige den micro:bit nach links oder rechts und drücke A
+- Neige den micro:bit vor oder zurück und drücke B
 Was zeigt der micro:bit an?
